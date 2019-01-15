@@ -13,7 +13,7 @@ Next you will need to select the License that you want for your Open Source proj
 **BSD + Patents** - This license is designed to provide: a) a simple permissive license; b) that is compatible with the GNU General Public License (GPL), version 2; and c) which also has an express patent grant included. 
 
  
-If you have questions on how to apply the license to your repo you can visit: https://help.github.com/articles/licensing-a-repository/#disclaimer  Github also provides a great resource for helping determine what license to use: (choosealicense.com). 
+If you have questions on how to apply the license to your repo you can visit: https://help.github.com/articles/licensing-a-repository/#disclaimer  Github also provides a great resource for helping determine what license to use: https://choosealicense.com. 
 
  
 
