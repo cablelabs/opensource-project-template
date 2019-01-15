@@ -1,8 +1,8 @@
 # Creating Your Github Repo 
 
-Creating your repo is simple. Visit (https://github.com/cablelabs/software-best-practices) and clone the repo to get started. 
+Creating your repo is simple. Visit https://github.com/cablelabs/software-best-practices and clone the repo to get started. 
 
-Once you have cloned the repo be sure to update the README section. The README should introduce what the project is, how someone can contribute to the project and any other relevant resources that can help the community better understand the project. To view an example of an Open Source Project Repo visit: (https://github.com/cablelabs/snaps-kubernetes)  
+Once you have cloned the repo be sure to update the README section. The README should introduce what the project is, how someone can contribute to the project and any other relevant resources that can help the community better understand the project. To view an example of an Open Source Project Repo visit: https://github.com/cablelabs/snaps-kubernetes  
 
 Next you will need to select the License that you want for your Open Source project. Below are the three most commonly used licenses: 
 
@@ -13,7 +13,7 @@ MIT - The MIT License is a permissive free software license originating at the M
 BSD + Patents - This license is designed to provide: a) a simple permissive license; b) that is compatible with the GNU General Public License (GPL), version 2; and c) which also has an express patent grant included. 
 
  
-If you have questions on how to apply the license to your repo you can visit: (https://help.github.com/articles/licensing-a-repository/#disclaime)r  Github also provides a great resource for helping determine what license to use: (choosealicense.com). 
+If you have questions on how to apply the license to your repo you can visit: https://help.github.com/articles/licensing-a-repository/#disclaimer  Github also provides a great resource for helping determine what license to use: (choosealicense.com). 
 
  
 
@@ -23,7 +23,7 @@ The landing page will be your public introduction to your project and used in pr
 
 Once the template is ready you will be able to populate with all relevant content for your project.  This content will be similar to what was provided in the README section of your repo and should include what the project is and why it matters, relevant diagrams or illustrations, upcoming feature enhancements and how to get engaged.  
 
-It’s important to keep this content up to date as the project continues to evolve. Here are two examples of current landing pages for Open Source projects at CableLabs: (https://www.loraserver.io/), (https://lpwanserver.com/)  
+It’s important to keep this content up to date as the project continues to evolve. Here are two examples of current landing pages for Open Source projects at CableLabs: https://www.loraserver.io/, https://lpwanserver.com/  
 
  
 
@@ -33,7 +33,7 @@ The ultimate goal of an Open Source project is to build a community around it th
 
 First, identify who the target audience is going to be (e.g. specific Vendors, Members or other industry organizations).  
 
-Second, work with the Software and Marketing teams to develop relevant content and events/ platforms that will be used when executing the communication plan. Prepare a blog entry to act as announcement for the launch of your open source project. An example blog can be found (https://www.cablelabs.com/open-source-lpwan-server-lpwan-technologies/ "here"). 
+Second, work with the Software and Marketing teams to develop relevant content and events/ platforms that will be used when executing the communication plan. Prepare a blog entry to act as announcement for the launch of your open source project. An example blog can be found at https://www.cablelabs.com/open-source-lpwan-server-lpwan-technologies/. 
 
 Last, be responsive to activity in the repo. The best way to build and keep a healthy community is to answer questions, fix bugs or provide requested documentation as soon as possible.  
 
