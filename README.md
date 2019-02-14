@@ -19,7 +19,7 @@ If you have questions on how to apply the license to your repo you can visit: ht
 
 # Creating a Landing Page for Your Project 
 
-The landing page will be your public introduction to your project and used in promoting the project to the target audience.  Work with the Software Team an IT to identify the proper domain name and layout for the landing page template.  
+The landing page will be your public introduction to your project and used in promoting the project to the target audience.  Work with the Software Team and Marketing to identify the proper domain name and layout for the landing page template.  
 
 Once the template is ready you will be able to populate with all relevant content for your project.  This content will be similar to what was provided in the README section of your repo and should include what the project is and why it matters, relevant diagrams or illustrations, upcoming feature enhancements and how to get engaged.  
 
